@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/pjz9n-pm-pl/pmforms-addon
+build-by-default: true
+branches:
+  - master
+projects:
+  pmforms-addon:
+    type: library
+    model: virion
+...
