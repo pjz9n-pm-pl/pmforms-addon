@@ -26,7 +26,7 @@ namespace pjz9n\pmformsaddon;
 use Closure;
 use dktapps\pmforms\CustomForm;
 use dktapps\pmforms\CustomFormResponse;
-use pocketmine\Player;
+use pocketmine\player\Player;
 
 abstract class AbstractCustomForm extends CustomForm
 {
