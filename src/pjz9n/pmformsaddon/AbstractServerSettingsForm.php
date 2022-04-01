@@ -27,7 +27,7 @@ use Closure;
 use dktapps\pmforms\CustomFormResponse;
 use dktapps\pmforms\FormIcon;
 use dktapps\pmforms\ServerSettingsForm;
-use pocketmine\Player;
+use pocketmine\player\Player;
 
 abstract class AbstractServerSettingsForm extends ServerSettingsForm
 {

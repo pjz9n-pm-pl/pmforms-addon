@@ -25,7 +25,7 @@ namespace pjz9n\pmformsaddon;
 
 use Closure;
 use dktapps\pmforms\ModalForm;
-use pocketmine\Player;
+use pocketmine\player\Player;
 
 abstract class AbstractModalForm extends ModalForm
 {
